@@ -8,4 +8,4 @@ It is a game played through window prompts where you can create a robot, battled
 
 ## Link to Application
 
-https://amymgardiner.github.io/robot-gladiators/
+https://amymgardiner.github.io/Robot-Gladiators/
